@@ -24,3 +24,5 @@ def time_this(nr):
 def empty_func():
     for j in range(10000000):
         pass
+
+empty_func()
